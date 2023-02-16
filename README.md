@@ -29,4 +29,9 @@
  <p>For this challenge, I spefically lerned how to use the reduce method a bit more since I struggled in showing the information the way I wanted to. Additionally, I learned about Object Oriented Programming and the great use we can have from it. </p>
 
 <h2><strong>Video of how the ReadMe Generator works:</strong></h2>
-<p>Video:</p>
+<p>Classes and Test</p>
+Video:[Challenge10ClassesandTest.webm](https://user-images.githubusercontent.com/112662397/219383275-ec7c0a63-134a-4473-beac-4cd0d0ba7db3.webm)
+  
+<p>Inputing Data and Rendering Team</p>
+Video:[Challenge10InquirerandRenderPage.webm](https://user-images.githubusercontent.com/112662397/219384203-a6572ebd-81ff-436e-8810-83d3d863f5b6.webm)
+
