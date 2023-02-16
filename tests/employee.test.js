@@ -24,7 +24,7 @@ describe (employee, () => {
         it ("should sow the role from the new role", ()=>{
             let role;
             const testemployee = new employee ("frank", "1081575", 'frank.monteon@gmail.com', role);
-        expect(testemployee.getID() === 'employee');
+        expect(testemployee.getRole() === 'employee');
         })
     })
 

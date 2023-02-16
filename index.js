@@ -140,7 +140,7 @@ function finishteam (){
           '<h6 class="card-subtitle mb-2 text-muted">' + currentValue.role + '</h6>'+
           '<p class="card-text">ID: ' + currentValue.ID + '</p>'+
           '<a href= mailto: '+ currentValue.email +  'class="card-link"> '+ currentValue.email + '</a>'+
-          '<p> <a href= https://github.com/'+currentValue.github + 'class="card-link">' + currentValue.github + '</a> </p>'+
+          '<p> <a href= https://github.com/'+currentValue.github + ' class="card-link">' + currentValue.github + '</a> </p>'+
           '</div>'+
           '</div>',[])
     }
